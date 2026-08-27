@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #eeeeee;
+}
+
+.contenedor {
+    width: 500px;
+    margin: 30px auto;
+    background: white;
+    padding: 25px;
+    border: 1px solid #aaa;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 80px;
+}
+
+.botones {
+    margin-top: 20px;
+    text-align: center;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 5px;
+}
+
+#resultado {
+    margin-top: 15px;
+}
